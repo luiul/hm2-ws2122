@@ -1,12 +1,15 @@
 <!-- omit in toc -->
 # Allgemeine Informationen
+
 <!-- update before pushing! -->
-`Zuletzt aktualisiert: 2021-09-28 16:27:15`
+`Zuletzt aktualisiert: 2021-10-05 23:35:08`
+
+<!-- Hier klicken für allgemeine Informationen -->
 
 Bitte beachten Sie die folgenden allgemeinen Informationen zur Veranstaltung. 
 
 <!-- omit in toc -->
-# Inhaltsverzeichnis und Abkürzungen
+# Inhaltsverzeichnis
 
 - [1. HM Team und Kontakt](#1-hm-team-und-kontakt)
   - [1.1. Unser Team](#11-unser-team)
@@ -34,7 +37,7 @@ Bitte beachten Sie die folgenden allgemeinen Informationen zur Veranstaltung.
   - [7.2. Studierendenplattformen](#72-studierendenplattformen)
 - [8. Ergänzungen und Kommentare](#8-ergänzungen-und-kommentare)
 
-<br/>
+<!-- <br/>
 
 Sie finden die folgenden Abkürzungen im Moodle-Raum:
 
@@ -46,7 +49,7 @@ Sie finden die folgenden Abkürzungen im Moodle-Raum:
 - Testat (T)
 - Mitschriften (M)
 - MD5-Prüfsumme (MD5)
-- Formelsammlung (F)
+- Formelsammlung (F) -->
 
 <br/>
 
@@ -56,92 +59,99 @@ Weitere Informationen finden Sie auf [unserer Website](https://wwwnew.mathematik
 
 ## 1.1. Unser Team
 
-| Rolle                                         | Titel          | Vorname    | Name     | E-Mail                                 |
-| --------------------------------------------- | -------------- | ---------- | -------- | -------------------------------------- |
-| Dozent und Leiter der Abteilung               | Akad. Dir. Dr. | Martin     | Scheer   | martin.scheer@math.tu-dortmund.de      |
-| Hauptassistent                                | M. Sc.         | Maximilian | Sperber  | maximilian.sperber@math.tu-dortmund.de |
-| Organisator, Übungsleiter und Ansprechpartner | B. Sc.         | Luis       | Aceituno | luis.aceituno@tu-dortmund.de           |
-| Tutor                                         | B. Sc.         | Bektas     | Er       | bektas.er@tu-dortmund.de               |
-| Tutorin                                       | -              | Cara       | Gabriel  | cara.gabriel@gmx.de                    |
-| Tutorin                                       | -              | Carla      | Tillmann | carlotta19@t-online.de                 |
-| Organisation                                  | -              | -          | -        | hmorga@tu-dortmund.de                  |
+| Rolle                                       | Titel          | Vorname    | Name     | E-Mail                                                                                  |
+| ------------------------------------------- | -------------- | ---------- | -------- | --------------------------------------------------------------------------------------- |
+| Dozent und Leiter der Abteilung             | Akad. Dir. Dr. | Martin     | Scheer   | [martin.scheer@math.tu-dortmund.de](mailto:martin.scheer@math.tu-dortmund.de)           |
+| Hauptassistent                              | M. Sc.         | Maximilian | Sperber  | [maximilian.sperber@math.tu-dortmund.de](mailto:maximilian.sperber@math.tu-dortmund.de) |
+| Organisator, Übungsleiter und Kontaktperson | B. Sc.         | Luis       | Aceituno | [luis.aceituno@tu-dortmund.de](mailto:luis.aceituno@tu-dortmund.de)                     |
+| Tutor                                       | B. Sc.         | Bektas     | Er       | [bektas.er@tu-dortmund.de](mailto:bektas.er@tu-dortmund.de)                             |
+| Tutorin                                     | -              | Cara       | Gabriel  | [cara.gabriel@gmx.de](mailto:cara.gabriel@gmx.de)                                       |
+| Tutor                                       | -              | Nick       | Hanowski | [nick.hanowski@tu-dortmund.de](nick.hanowski@tu-dortmund.de)                            |
+| Organisation                                | -              | -          | -        | [hmorga@tu-dortmund.de](mailto:hmorga@tu-dortmund.de)                                   |
 
 <br/>
 
 ## 1.2. Fragen, Feedback und Evaluation
 
-Die Funktion dieser zentralen Platform ist Redundanz, Desorganisation und Intransparenz zu vermeiden. Bitte beachten Sie die folgende Checkliste zur Klärung von Fragen und zum persönlichen Feedback-Geben. Führen Sie die Schritte sukzessiv durch, bis Sie eine angemessene Antwort von uns oder Ihren Kommilitonen erhalten haben.
+Die Funktion dieser zentralen Plattform ist es, Redundanz, Desorganisation und Intransparenz zu vermeiden. Zur Klärung von Fragen und für ein persönliches Feedback nutzen Sie bitte die folgende Checkliste. Gehen Sie die Schritte sukzessive durch, bis Sie von uns oder Ihren Kommilitonen eine angemessene Antwort erhalten haben.
 
-- Suchen Sie das relevanteste Stichwort Ihrer Frage bzw. Ihres Feedbacks im Moodle-Raum und [Ankündigungsbereich](https://moodle.tu-dortmund.de/mod/forum/view.php?id=810635) mit `ctrl+f <stichwort>` für Windows- bzw. `cmd+f <stichwort>` für MacOS-User (Linux-User wissen schon Bescheid, was zu tun ist).
-- Suchen Sie das Sichwort im Forum. Sie finden die [Forum-Suchfunktion](https://moodle.tu-dortmund.de/mod/forum/search.php?id=26405) auf dem rechten Sidebar des Moodle-Raumes.
-- Falls Sie das Stichwort nicht finden oder die vorhandene Antwort irrelevant für Sie ist, stellen Sie die Frage bzw. geben Sie das Feedback im [Forum](https://moodle.tu-dortmund.de/mod/forum/view.php?id=815430) an und warten Sie auf eine Antwort von uns oder Ihren Kommilitonen.
-
-<br/>
-
-Bei Fragen bzw. Feedback, die personenbezogenen Daten enthalten, beachten Sie bitte die folgende Checkliste. Führend Sie die Schritte sukzessiv durch, bis Sie eine angemessene Antwort von uns erhalten haben.
-
-- Stellen Sie die Frage Ihrem/er Tutor/in nach dem Tutorium oder per E-Mail.
-- Stellen Sie die Frage dem Ansprechpartner nach der Übung oder per [E-Mail](luis.aceituno@tu-dortmund.de).
-- Schreiben Sie eine E-Mail an die [HM Orga](hmorga@tu-dortmund.de) mit Ihrer Frage.
+[] Suchen Sie im Moodle-Raum und im [Ankündigungsbereich](https://moodle.tu-dortmund.de/mod/forum/view.php?id=985446) mit `ctrl+f <Stichwort>` für Windows oder `cmd+f <Stichwort>` für macOS-Nutzer (Linux-Nutzer wissen bereits, was zu tun ist) nach dem relevantesten Schlüsselwort Ihrer Frage oder Ihres Feedbacks.
+[] Suchen Sie nach dem Stichwort im Forum. Sie finden die [Forum-Suchfunktion](https://moodle.tu-dortmund.de/mod/forum/view.php?id=985447) in dem rechten Sidebar des Moodle-Raums.
+[] Wenn Sie das Stichwort nicht finden oder die vorhandene Antwort für Sie irrelevant ist, stellen Sie die Frage oder geben Sie das Feedback im [Forum](https://moodle.tu-dortmund.de/mod/forum/view.php?id=985447) und warten Sie auf eine Antwort von uns oder Ihren Kommilitonen.
 
 <br/>
 
-Außerdem haben alle Studierenden die Möglichkeit uns Feedback anonym zu geben. Eine Seite zur Evaluation der Veranstaltung wird im Laufe des Semester zur Verfügung gestellt. Dies erfolgt i.d.R. nach der ersten Hälfte der Vorlesungszeit.
+Bei Fragen oder Feedback, die sensiblen Daten enthalten, beachten Sie bitte die folgende Checkliste. Gehen Sie die Schritte sukzessive durch, bis Sie von uns eine angemessene Antwort erhalten haben.
 
-# 2. Aufbau der Veranstaltung
-
-Die Veranstaltung besteht aus 14 wöchentlichen Abschnitten. Bei jedem Abschnitt finden Sie die folgenden Informationen und Aufgaben.
-
-- Lektüre des Skriptes: die relevanten Kapitel des Skriptes werden zur Verfügung gestellt. Diese müssen Sie zuhause lesen und nacharbeiten.
-- Übung: wir stellen die theoretischen Grundlagen und relevante Prinzipien vor. Außerdem rechnen wir ein paar grundlegende Aufgaben vor. Zusammen mit der Lektüre des Skriptes, stellt die Übung die Einführung in die Thematik der Woche dar. Eine Umfrage zur Ermittlung des Übungstermines findet im Moodle-Raum statt.
-- Tutorium: Sie haben die Möglichkeiten ein paar Aufgabe selbst zu erarbeiten und dabei Fragen direkt an Ihren zuständigen Tutoren zu stellen. Tutoren haben dabei Entscheidungskompetenz, d.h. sie bereiten sämtliche Aufgaben des TBs vor und entscheiden wie das Tutorium strukturiert ist. Eine Tutoriumsanmeldung findet im Moodle-Raum statt.
-- Testat: kurzes Feedback hinsichtlich Ihres Wissens- und Leistungsstandes sowie Ihre Möglichkeit die Klausurzulassung in diesem Semester zu erlangen (siehe [5. Testate](#5-testate)).
+[] Stellen Sie die Frage an Ihren Tutor nach dem Tutorium oder per E-Mail.
+[] Stellen Sie die Frage nach dem Tutorium oder per E-mail an die [Kontaktperson](mailto:luis.aceituno@tu-dortmund.de).
+[] Schicken Sie Ihre Frage per E-Mail an die [HM Orga](hmorga@tu-dortmund.de).
 
 <br/>
 
-Sämtliche Unterlagen werden im Moodle-Raum zur Verfügung gestellt. Die Übung und die Tutorien erfolgen live per Zoom und werden nicht aufgezeichnet. 
+Darüber hinaus haben alle Studierenden die Möglichkeit, uns anonym ein Feedback zu geben. Eine Seite zur Evaluation der Lehrveranstaltung wird im Laufe des Semesters zur Verfügung gestellt. Diese findet i.d.R. nach der ersten Hälfte der Vorlesungszeit statt.
+
+# 2. Stuktur der Veranstaltung
+
+Die Lehrveranstaltung besteht aus wöchentlichen Abschnitten. In jedem Abschnitt finden Sie die folgenden Informationen und Aufgaben.
+
+[] Skript: Die relevanten Kapitel des Skriptes werden zur Verfügung gestellt. Sie müssen diese zu Hause lesen und nacharbeiten.
+[] Übung: Wir werden die theoretischen Grundlagen und relevanten Prinzipien vorstellen. Wir stellen auch einige grundlegende Aufgaben vor. Zusammen mit der Lektüre des Skripts dient die Übung als Einführung in das Thema der Woche.
+[] Tutorium: Sie haben die Möglichkeit, einige Aufgaben selbst zu bearbeiten und Fragen direkt an Ihren zuständigen Tutor zu stellen. Die Tutoren haben Entscheidungsbefugnis, d.h. sie bereiten alle Aufgaben des Tutoriums vor und entscheiden, wie das Tutorium strukturiert ist. Die Tutoriumsanmeldung findet im Moodle-Raum statt.
+[] Testat: Kurzes Feedback zu Ihrem Wissens- und Leistungsstand sowie zu Ihrer Möglichkeit, in diesem Semester die Klausurzulassung (Studienleistung) zu erlangen (siehe [5. Testate](#5-testate)).
+
+<br/>
+
+Alle Materialien der Veranstaltung werden im Moodle-Raum zur Verfügung gestellt. Die Übungen und Tutorien werden live per Zoom übertragen und nicht aufgezeichnet. 
+
+Die Videoaufnahmen und das Material des letzten Semesters sind im Moodle-Raum [HM II (BCI/BW/MLW) SS2021](https://moodle.tu-dortmund.de/course/view.php?id=26404) verfügbar. Die klausurrelevanten Themen des aktuellen und des letzten Semesters sind identisch.
 
 ## 2.1. Arbeitspensum
 
-Für das Modul *Höhere Mathematik I* sind insgesamt 9 ECTS-Credits zu erbringen. Dies entspricht einer gesamten Arbeitsbelastung von 270 Stunden (30 Stunden pro ECTS-Credit). Die studentische Arbeitsbelastung im Präsenzstudium ist lediglich 4 Stunden pro Woche, d.h. 56 Stunden pro Semester oder ca. 21% der gesamten Arbeitsbelastung. Die verbleibende Arbeitsbelastung von ca. 79% müssen Sie im Selbststudium annehmen!
+Für das Modul *Höhere Mathematik II* müssen insgesamt 9 ECTS-Credits erworben werden. Dies entspricht einem Arbeitsaufwand von insgesamt 270 Stunden (30 Stunden/ECTS-Credits). Der studentische Arbeitsaufwand im Präsenzstudium (mit den Tutoren und dem Übungsleiter) beträgt nur 4 Stunden/Woche, d.h. 14 Wochen/Semester * 4 Stunden/Woche = 56 Stunden/Semester oder ca. 21% des Gesamtarbeitsaufwandes. Der restliche Arbeitsaufwand von ca. 79% muss im Selbststudium erbracht werden!
 
-Bei Fragen kontaktieren Sie uns. Wir helfen Ihnen gerne! (siehe [1.2. Fragen, Feedback und Evaluation](#12-fragen-feedback-und-evaluation))
+Wenn Sie Fragen haben, kontaktieren Sie uns bitte. Wir helfen Ihnen gerne weiter! (siehe [1.2. Fragen, Feedback und Bewertung](#12-questions-feedback-and-evaluation))
 
 ## 2.2. Checklisten, Milestones und Progress-Bar
 
-Bei jedem Abschnitt finden Sie Checklisten `<aufgabe> [ ]` und Milestones `🎉 Abschnitt <n>: <abschnittsname> abgeschlossen!🎉`. Diese haben mehrere Funktionen, u.a.:
+Bei jedem Abschnitt finden Sie Checklisten `<Aufgabe> [ ]` und Milestones `🎉 Abschnitt <n>: <abschnittsname> abgeschlossen!🎉`. Diese haben mehrere Funktionen, darunter:
 
-- Zum Selbst-Tracking Ihres Lernfortschrittes: sobald Sie mit einem Abschnitt fertig sind und die behandelte Thematik verstanden haben, können Sie das Kästchen ankreuzen. Somit signalisieren Sie, dass Sie sich mit der Thematik des Abschnittes bzw. der Woche auseinandergesetzt haben.
-- Visualisierung Ihres Lernfortschrittes: Auf dem rechten Sidebar finden Sie unter dem Block [Bearbeitungsstand](https://moodle.tu-dortmund.de/blocks/completionstatus/details.php?course=26405) Ihren Lernfortschritt als ein Verhältnis von angekreuzte Kästchen vs alle Kästchen. Zusätzlich wird Ihnen auf der Moodle-Hauptseite ein Progress-Bar ihres Lernfortschrittes angezeigt.
-- Berichterstellung: aus diesen Daten können wir dann Berichte erstellen und somit (a) kontrollieren welche Studierende aktiv mitarbeiten, (b) ob Ihrer Lernfortschritt synchron zur Veranstaltung läuft und (c) welche Themen besonders schwer für Sie bzw. alle Studierenden sind.
+- Zur Selbstkontrolle Ihres Lernfortschritts: Sobald Sie einen Abschnitt abgeschlossen und das behandelte Thema verstanden haben, können Sie das Kästchen ankreuzen. Dies zeigt an, dass Sie sich mit dem Thema des Abschnitts beschäftigt haben.
+- Visualisierung Ihres Lernfortschritts: In dem rechten Sidebar finden Sie Ihren Lernfortschritt als Verhältnis von angekreuzten Kästchen zu allen Kästchen unter dem Block Bearbeitungsstand. Zusätzlich sehen Sie auf der Moodle-Dashboard ein Progress-Bar Ihres Lernfortschritts.
+- Berichte: Aus diesen Daten können wir dann Berichte erstellen, um (a) zu überwachen, wie viele Studierenden aktiv teilnehmen, (b) ob Ihr Lernfortschritt mit der Veranstaltung übereinstimmt und (c) welche Themen für Sie oder alle Studenten besonders schwierig sind.
 
 <br/>
 
-# 3. Termine und Semesterablauf
+# 3. Termine und Semesterplan (unter Vorbehalt, Stand 31.08.)
 
-Bitte beachten Sie die folgenden Termine und den Semesterzeitplan.
+Bitte beachten Sie die folgenden Termine und den Semesterplan.
 
 ## 3.1. Wichtige Termine
 
-| SW  | KW  | Datum    | Event                                                  |
-| --- | --- | -------- | ------------------------------------------------------ |
-| 1   | 15  | 12.04.21 | Beginn der Vorlesungszeit                              |
-| 1   | 15  | 12.04.21 | Beginn der Vorbereitungsphase                          |
-| 2   | 16  | 19.04.21 | Begin der Hauptphase (Lektüre des Skriptes, UB und TB) |
-| 15  | 29  | 25.07.21 | Ende der Hauptphase / Vorlesungszeit                   |
-| 16  | 30  | 26.07.21 | Beginn der Klausurvorbereitungsphase                   |
-| -   | -   | tba      | Sprechstunden in der vorlesungsfreien Zeit             |
-| 21  | 35  | 03.09.21 | Klausur                                    |
-| -   | -   | tba      | Klausureinsicht                                        |
+| Kalenderwoche | Datum  | Event                                            |
+|---------------|--------|--------------------------------------------------|
+| 41            | 11.10. | Beginn der Vorlesungszeit und Vorbereitungsphase |
+| 42            | 18.10. | Beginn der Hauptphase                            |
+| 5             | 04.02. | Ende der Vorlesungszeit und Hauptphase           |
+| 5             | 05.02. | Beginn der Klausurvorbereitungsphase             |
+|               | tba    | Sprechstunden in der vorlesungsfreien Zeit       |
+| 11            | 18.03. | Klausur                                          |
+|               | tba    | Klausureinsicht                                  |
 
 <br/>
 
-Die Übung findet montags, von 12:14 bis 13:45 statt. Die Tutorien finden zu den folgenden Terminen statt:
+Vorlesungsfreie Tage: 01.11. und vom 20.12.2021 bis 07.01.2022. 
 
-- mittwochs, von 12:00 bis 14:00
-- mittwochs, von 16:00 bis 18:00
-- donnerstags, von 10:00 bis 12:00
-- freitags, von 10:00 bis 12:00
+Wir bieten eine Online-Übung, zwei Online-Tutorien und zwei Präsenz-Tutorien zu den folgenden Terminen an:
+
+- Online-Übung: 
+  - Mo. 16:00 - 18:00
+- Präsenz-Tutorium:
+  - Mi. 14:00 - 16:00 (ca. 90 Plätze)
+  - Mi. 16:00 - 18:00 (ca. 50 Plätze)
+- Online-Tutorium:
+  - Do. 12:00 - 14:00
+  - Do. 14:00 - 16:00
 
 <br/>
 

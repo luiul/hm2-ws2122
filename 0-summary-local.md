@@ -1,6 +1,6 @@
 # HM2 für Wiederholer - WS21/22
 
-`Zuletzt aktualisiert: 2021-09-28 17:15:14`
+`Zuletzt aktualisiert: 2021-10-05 23:29:36`
 
 Dieser Moodle-Raum ist die zentrale Plattform für die Lehrveranstaltung HM2 für Wiederholer WS21/22 (Moodle-Raum-ID: 29942).
 
@@ -9,7 +9,7 @@ Aufgrund der aktuellen Corona-Situation wird eine Hybridveranstaltung angeboten.
 In diesem Moodle-Raum finden Sie die folgenden Informationen:
 
 - [Ankündigungen](https://moodle.tu-dortmund.de/mod/forum/view.php?id=985446)
-- [Forum](https://moodle.tu-dortmund.de/mod/forum/view.php?id=985447) für Fragen und Diskussion
+- [Forum](https://moodle.tu-dortmund.de/mod/forum/view.php?id=985447) für Fragen und Diskussionen
 - Checklisten und Milestones
 - [Vorbereitungsphase](https://moodle.tu-dortmund.de/course/view.php?id=29942#section-1) (Abschnitt 1)
 - [Allgemeine Informationen](https://moodle.tu-dortmund.de/course/view.php?id=29942#section-2) (Abschnitt 2)
