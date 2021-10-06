@@ -6,7 +6,7 @@
 
 <!-- Hier klicken für allgemeine Informationen -->
 
-Bitte beachten Sie die folgenden allgemeinen Informationen zur Veranstaltung.
+Bitte beachten Sie die folgenden allgemeinen Informationen zur Lehrveranstaltung.
 
 <!-- omit in toc -->
 # Inhaltsverzeichnis
@@ -19,25 +19,25 @@ Bitte beachten Sie die folgenden allgemeinen Informationen zur Veranstaltung.
   - [2.2. Checklisten, Milestones und Progress-Bar](#22-checklisten-milestones-und-progress-bar)
 - [3. Termine und Semesterplan (unter Vorbehalt)](#3-termine-und-semesterplan-unter-vorbehalt)
   - [3.1. Wichtige Termine](#31-wichtige-termine)
-  - [3.2. Termine für Übung und Tutorien](#32-termine-für-übung-und-tutorien)
+  - [3.2. Termine für Übung, Tutorien und Testat](#32-termine-für-übung-tutorien-und-testat)
   - [3.3. Außergewöhnliche Termine](#33-außergewöhnliche-termine)
-- [4. Semesterplan](#4-semesterplan)
-- [5. Studentendaten](#5-studentendaten)
-- [6. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben](#6-klausurzulassung-studienleistung-testate-und-zusatzaufgaben)
-- [7. Testat-Ablauf](#7-testat-ablauf)
-  - [7.1. Vor dem Testat](#71-vor-dem-testat)
-  - [7.2. Zum Beginn des Testates](#72-zum-beginn-des-testates)
-  - [7.3. Nach Ende des Testates](#73-nach-ende-des-testates)
-  - [7.4. Bis zum Ende des Tages](#74-bis-zum-ende-des-tages)
-  - [7.5. Bemerkungen und technische Probleme](#75-bemerkungen-und-technische-probleme)
-- [8. Klausur, Sprechstunden und Klausureinsicht](#8-klausur-sprechstunden-und-klausureinsicht)
-  - [8.1. Klausur](#81-klausur)
-  - [8.2. Sprechstunden in der vorlesungsfreien Zeit](#82-sprechstunden-in-der-vorlesungsfreien-zeit)
-  - [8.3. Klausureinsicht](#83-klausureinsicht)
-- [9. Weitere Ressourcen und Anmerkungen](#9-weitere-ressourcen-und-anmerkungen)
-  - [9.1. Wichtige Ressourcen](#91-wichtige-ressourcen)
-  - [9.2. Plattformen außerhalb von Moodle](#92-plattformen-außerhalb-von-moodle)
-- [10. Ergänzungen und Kommentare](#10-ergänzungen-und-kommentare)
+  - [3.4. Semesterplan](#34-semesterplan)
+- [4. Studentendaten](#4-studentendaten)
+- [5. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben](#5-klausurzulassung-studienleistung-testate-und-zusatzaufgaben)
+- [6. Testat-Ablauf](#6-testat-ablauf)
+  - [6.1. Vor dem Testat](#61-vor-dem-testat)
+  - [6.2. Zum Beginn des Testates](#62-zum-beginn-des-testates)
+  - [6.3. Nach Ende des Testates](#63-nach-ende-des-testates)
+  - [6.4. Bis zum Ende des Tages](#64-bis-zum-ende-des-tages)
+  - [6.5. Bemerkungen und technische Probleme](#65-bemerkungen-und-technische-probleme)
+- [7. Klausur, Sprechstunden und Klausureinsicht](#7-klausur-sprechstunden-und-klausureinsicht)
+  - [7.1. Klausur](#71-klausur)
+  - [7.2. Sprechstunden in der vorlesungsfreien Zeit](#72-sprechstunden-in-der-vorlesungsfreien-zeit)
+  - [7.3. Klausureinsicht](#73-klausureinsicht)
+- [8. Weitere Ressourcen und Anmerkungen](#8-weitere-ressourcen-und-anmerkungen)
+  - [8.1. Wichtige Ressourcen](#81-wichtige-ressourcen)
+  - [8.2. Plattformen außerhalb von Moodle](#82-plattformen-außerhalb-von-moodle)
+- [9. Ergänzungen und Kommentare](#9-ergänzungen-und-kommentare)
 
 <br/>
 
@@ -124,30 +124,26 @@ Bitte beachten Sie die folgenden Termine und den Semesterplan.
 | 42  | 18.10. | Beginn der Hauptphase                            |
 | 5   | 04.02. | Ende der Vorlesungszeit und Hauptphase           |
 | 5   | 05.02. | Beginn der Klausurvorbereitungsphase             |
-| -    | TBA    | Sprechstunden in der vorlesungsfreien Zeit       |
+| -   | TBA    | Sprechstunden in der vorlesungsfreien Zeit       |
 | 11  | 18.03. | Klausur                                          |
-| -    | TBA    | Klausureinsicht                                  |
+| -   | TBA    | Klausureinsicht                                  |
 
 <br/>
 
 Vorlesungsfreie Tage: 01.11. und vom 20.12.2021 bis 07.01.2022.
 
-Die erste Übung findet am Dienstag, 19.10. um 16:00 Uhr statt. Die dritte Übung findet am Dienstag, 02.11. (Uhrzeit TBA).
+## 3.2. Termine für Übung, Tutorien und Testat
 
-## 3.2. Termine für Übung und Tutorien
+Wir bieten eine Online-Übung, zwei Online-Tutorien, zwei Präsenz-Tutorien und ein Online-Testat zu den folgenden Terminen an:
 
-Wir bieten eine Online-Übung, zwei Online-Tutorien und zwei Präsenz-Tutorien zu den folgenden Terminen an:
-
-- Online-Übung:
-  - Mo. 16:00 - 18:00
-- Präsenz-Tutorium:
-  - Mi. 14:00 - 16:00 (ca. 90 Plätze)
-  - Mi. 16:00 - 18:00 (ca. 50 Plätze)
-- Online-Tutorium:
-  - Do. 12:00 - 14:00
-  - Do. 14:00 - 16:00
-- Testat
-  - Di. TBA
+| Event    | Format  | Tag        | Vom   | Bis   |
+|----------|---------|------------|-------|-------|
+| Übung    | Online  | Montag     | 16:00 | 18:00 |
+| Tutorium | Präsenz | Mittwoch   | 14:00 | 16:00 |
+| Tutorium | Präsenz | Mittwoch   | 16:00 | 18:00 |
+| Tutorium | Online  | Donnerstag | 12:00 | 14:00 |
+| Tutorium | Online  | Donnerstag | 14:00 | 16:00 |
+| Testat   | Online  | Dienstag   | TBA   | -     |
 
 <br/>
 
@@ -155,31 +151,31 @@ Wir bieten eine Online-Übung, zwei Online-Tutorien und zwei Präsenz-Tutorien z
 
 Die **erste Übung** findet am Dienstag, 19.10. um 16:00 Uhr statt. Die **dritte Übung** findet am Dienstag, 02.11. statt (Uhrzeit TBA).
 
-# 4. Semesterplan
+## 3.4. Semesterplan
 
-| Abschnitt | KW | von    | bis    | Thema UB und TB                                           | Thema Testat                                              |
-|-----------|----|--------|--------|-----------------------------------------------------------|-----------------------------------------------------------|
-| 3         | 41 | 11.10. | 17.10. | -                                                         | -                                                         |
-| 4         | 42 | 18.10. | 24.10. | Folgen                                                    | Probetestat                                               |
-| 5         | 43 | 25.10. | 31.10. | Reihen und Konvergenzkriterien                            | Folgen                                                    |
-| 6         | 44 | 01.11. | 07.11. | Grenzwert reeller Funktionen                              | Reihen und Konvergenzkriterien                            |
-| 7         | 45 | 08.11. | 14.11. | Stetigkeit reeller Funktionen                             | Grenzwert reeller Funktionen                              |
-| 8         | 46 | 15.11. | 21.11. | Differenzierbarkeit reeller Funktionen                    | Stetigkeit reeller Funktionen                             |
-| 9         | 47 | 22.11. | 28.11. | Potenzreihen in R und C                                   | Differenzierbarkeit reeller Funktionen                    |
-| 10        | 48 | 29.11. | 05.12. | Kurvendiskussion und de l'Hospital                        | Potenzreihen in R und C                                   |
-| 11        | 49 | 06.12. | 12.12. | Taylor-Formel                                             | Kurvendiskussion und de l'Hospital                        |
-| 12        | 50 | 13.12. | 19.12. | Integralrechnung I: bestimmte Integrale und Stammfunktion | Taylor-Formel                                             |
-| -         | 51 | 20.12. | 26.12. | -                                                         | -                                                         |
-| -         | 52 | 27.12. | 02.01. | -                                                         | -                                                         |
-| -         | 1  | 03.01. | 09.01. | -                                                         | -                                                         |
-| 13        | 2  | 10.01. | 16.01. | Integralrechnung II: uneigentliche Integrale und PBZ      | Integralrechnung I: bestimmte Integrale und Stammfunktion |
-| 14        | 3  | 17.01. | 23.01. | Stetigkeit und Richtungsableitung in R^n                  | Integralrechnung II: uneigentliche Integrale und PBZ      |
-| 15        | 4  | 24.01. | 30.01. | Extremwertaufgaben in R^n                                 | Zusatzaufgaben 1                                                  |
-| 16        | 5  | 31.01. | 06.02. | DGL erster Ordnung                                        | Zusatzaufgaben 2                                                  |
+| Abschnitt | KW  | von    | bis    | Thema UB und TB                                           | Thema Testat                                              |
+| --------- | --- | ------ | ------ | --------------------------------------------------------- | --------------------------------------------------------- |
+| 3         | 41  | 11.10. | 17.10. | -                                                         | -                                                         |
+| 4         | 42  | 18.10. | 24.10. | Folgen                                                    | Probetestat                                               |
+| 5         | 43  | 25.10. | 31.10. | Reihen und Konvergenzkriterien                            | Folgen                                                    |
+| 6         | 44  | 01.11. | 07.11. | Grenzwert reeller Funktionen                              | Reihen und Konvergenzkriterien                            |
+| 7         | 45  | 08.11. | 14.11. | Stetigkeit reeller Funktionen                             | Grenzwert reeller Funktionen                              |
+| 8         | 46  | 15.11. | 21.11. | Differenzierbarkeit reeller Funktionen                    | Stetigkeit reeller Funktionen                             |
+| 9         | 47  | 22.11. | 28.11. | Potenzreihen in R und C                                   | Differenzierbarkeit reeller Funktionen                    |
+| 10        | 48  | 29.11. | 05.12. | Kurvendiskussion und de l'Hospital                        | Potenzreihen in R und C                                   |
+| 11        | 49  | 06.12. | 12.12. | Taylor-Formel                                             | Kurvendiskussion und de l'Hospital                        |
+| 12        | 50  | 13.12. | 19.12. | Integralrechnung I: bestimmte Integrale und Stammfunktion | Taylor-Formel                                             |
+| -         | 51  | 20.12. | 26.12. | -                                                         | -                                                         |
+| -         | 52  | 27.12. | 02.01. | -                                                         | -                                                         |
+| -         | 1   | 03.01. | 09.01. | -                                                         | -                                                         |
+| 13        | 2   | 10.01. | 16.01. | Integralrechnung II: uneigentliche Integrale und PBZ      | Integralrechnung I: bestimmte Integrale und Stammfunktion |
+| 14        | 3   | 17.01. | 23.01. | Stetigkeit und Richtungsableitung in R^n                  | Integralrechnung II: uneigentliche Integrale und PBZ      |
+| 15        | 4   | 24.01. | 30.01. | Extremwertaufgaben in R^n                                 | Zusatzaufgaben 1                                          |
+| 16        | 5   | 31.01. | 06.02. | DGL erster Ordnung                                        | Zusatzaufgaben 2                                          |
 
 <br/>
 
-# 5. Studentendaten
+# 4. Studentendaten
 
 Um sich für (a) die Tutorien anzumelden und (b) die wöchentlichen Testate zu schreiben, benötigen wir die folgenden Studentendaten:
 
@@ -190,7 +186,7 @@ Um sich für (a) die Tutorien anzumelden und (b) die wöchentlichen Testate zu s
 
 <br/>
 
-# 6. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben
+# 5. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben
 
 Die Teilnahme an der Klausur setzt die Klausurzulassung voraus. In diesem Semester besteht die Möglichkeit, die Prüfungszulassung durch die Studienleistung in Form von Testaten und Zusatzaufgaben zur Abgabe zu erlangen.
 
@@ -203,18 +199,18 @@ Ab der 43. KW (25.10.) gibt es wöchentlich einen Test zum jeweiligen Thema der 
 
 Auch wenn Sie die Klausurzulassung automatisch haben, empfehlen wir Ihnen, das Testat mitzuschreiben! (Übung und Selbstkontrolle des eigenen Lernfortschritts).
 
-# 7. Testat-Ablauf
+# 6. Testat-Ablauf
 
 Das Testat wird mit Stift und Papier geschrieben. Bringen Sie einen Studenten- oder Personalausweis unten links auf jeder Seite Ihrer Lösung an. Senden Sie uns nach Ende des Testates die MD5-Prüfsumme (MD5) Ihrer Lösung über Moodle. Laden Sie Ihre Lösung bis zum Ende des Testat-Tages als PDF-Datei hoch. Bitte beachten Sie die folgende Checkliste.
 
-## 7.1. Vor dem Testat
+## 6.1. Vor dem Testat
 
 - Sie können das passwortgeschützte Testat 24 Stunden vor Beginn des Testates als PDF-Datei herunterladen.
 - Bereiten Sie die Zettel für das Testat vor. Lassen Sie auf jeder Seite unten links ein freies Feld, damit Sie dort Ihren Ausweis anbringen können.
 
 <br/>
 
-## 7.2. Zum Beginn des Testates
+## 6.2. Zum Beginn des Testates
 
 - Bestätigen Sie die eidesstattliche Erklärung zur Prüfungsberechtigung, Selbstständigkeit und Prüfungstauglichkeit. Wir werden Ihre Identität zunächst nicht überprüfen. Wir werden Sie kontaktieren, wenn wir Unregelmäßigkeiten feststellen.
 - Nach der Bestätigung erhalten Sie das Passwort für das Testat.
@@ -222,51 +218,51 @@ Das Testat wird mit Stift und Papier geschrieben. Bringen Sie einen Studenten- o
 
 <br/>
 
-## 7.3. Nach Ende des Testates
+## 6.3. Nach Ende des Testates
 
-- Wenn Sie mit der Bearbeitung fertig sind, zeichnen Sie Ihre Lösung auf (mit Personalausweis) und fügen Sie die Scans zu einer PDF-Datei zusammen (siehe [9.1. Wichtige Ressourcen](#91-wichtige-ressourcen)).
+- Wenn Sie mit der Bearbeitung fertig sind, zeichnen Sie Ihre Lösung auf (mit Personalausweis) und fügen Sie die Scans zu einer PDF-Datei zusammen (siehe [8.1. Wichtige Ressourcen](#81-wichtige-ressourcen)).
 - Klicken Sie auf [`MD5-Generator`](https://emn178.github.io/online-tools/md5_checksum.html) in der rechten Sidebar und generieren Sie die MD5. Nachdem Sie die MD5 generiert haben, können Sie die PDF-Datei nicht mehr ändern! (Es ist möglich, die PDF-Datei umzubenennen).
 - Klicken Sie auf `MD5-Abgabe` in der rechten Sidebar oder Abschnitt. Kopieren Sie den MD5-Wert aus dem MD5-Generator und fügen Sie ihn in das vorhandene Feld ein.
 - Bestätigen Sie Ihre MD5-Übermittlung. Sie erhalten eine **E-Mail-Bestätigung** für Ihre Abgabe. Sie haben 15 Minuten Zeit, um die MD5 zu abzugeben.
 
 <br/>
 
-## 7.4. Bis zum Ende des Tages
+## 6.4. Bis zum Ende des Tages
 
 - Benennen Sie die PDF-Datei nach folgendem Schema: `<Matrikelnummer>-<Nachname>-<Vorname>.pdf`.
 - Klicken Sie in der rechten Sidebar auf [`Testat-Upload`](https://tu-dortmund.sciebo.de/s/zJ7Z1h8b5kaWRnu) und laden Sie die PDF-Datei per Drag-and-Drop hoch. Sie haben bis zum Ende des Tages Zeit, die PDF-Datei hochzuladen.
 
 <br/>
 
-## 7.5. Bemerkungen und technische Probleme
+## 6.5. Bemerkungen und technische Probleme
 
 Wir bewerten nur (a) handschriftliche Texte und (b) PDF-Dateien, die die korrekten MD5 generieren (von Ihnen eingereicht).
 
 Falls es technische Probleme gibt, dokumentieren Sie diese mit Screenshots. Schreiben Sie eine E-Mail an die [Kontaktperson](mailto:luis.aceituno@tu-dortmund.de) und beschreiben Sie Ihre Situation mit Screenshots.
 
-# 8. Klausur, Sprechstunden und Klausureinsicht
+# 7. Klausur, Sprechstunden und Klausureinsicht
 
 Bitte beachten Sie die folgenden Informationen zur Klausur.
 
-## 8.1. Klausur
+## 7.1. Klausur
 
 Am Ende der Lehrveranstaltung findet eine schriftliche Prüfung in Form einer Klausur statt. Klausurrelevant sind **alle** Themen, die während des Semesters behandelt wurden. Die Klausur findet am Freitag, 18.03.2022 von 12:00 bis 14:00 Uhr statt (unter Vorbehalt).
 
-Zur Teilnahme an der Klausur ist (a) die Klausurzulassung und (b) eine Anmeldung erforderlich. Die Klausurzulassung erhalten Sie wie oben beschrieben (siehe [6. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben](#6-klausurzulassung-studienleistung-testate-und-zusatzaufgaben)). Die Klausuranmeldung erfolgt über das BOSS-System bis spätestens zwei Wochen vor der Klausur.
+Zur Teilnahme an der Klausur ist (a) die Klausurzulassung und (b) eine Anmeldung erforderlich. Die Klausurzulassung erhalten Sie wie oben beschrieben (siehe [5. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben](#5-klausurzulassung-studienleistung-testate-und-zusatzaufgaben)). Die Klausuranmeldung erfolgt über das BOSS-System bis spätestens zwei Wochen vor der Klausur.
 
 Als Hilfsmittel sind ein doppelseitiges handgeschriebenes DIN-A4-Papier oder zwei einseitige handgeschriebene DIN-A4-Papiere zugelassen. Kopierte oder ausgedruckte Formelblätter sind nicht erlaubt.
 
-## 8.2. Sprechstunden in der vorlesungsfreien Zeit
+## 7.2. Sprechstunden in der vorlesungsfreien Zeit
 
 In der vorlesungsfreien Zeit bieten wir vor der Prüfung Sprechstunden an. Die Termine werden am Ende der Vorlesungszeit bekannt gegeben.
 
-## 8.3. Klausureinsicht
+## 7.3. Klausureinsicht
 
 Nach der Klausur bieten wir eine Klausureinsicht an. Den Termin wird am Ende der Vorlesungszeit bekanntgegeben.
 
-# 9. Weitere Ressourcen und Anmerkungen
+# 8. Weitere Ressourcen und Anmerkungen
 
-## 9.1. Wichtige Ressourcen
+## 8.1. Wichtige Ressourcen
 
 - [Vorkurs NAT-ING](https://www.mathematik.tu-dortmund.de/sites/vorkurs-mathematik-2021/vorkurs-nat-ing): Frischen Sie Ihre mathematischen Kenntnisse mit dem Vorkurs auf.
 - [Moodle-Raum HM2 SS21](https://moodle.tu-dortmund.de/course/view.php?id=26404): In diesem Moodle-Raum sind die Videoaufzeichnungen und Materialien des letzten Semesters zu finden.. Die klausurrelevanten Themen des aktuellen und des letzten Semesters sind identisch.
@@ -282,10 +278,10 @@ Nach der Klausur bieten wir eine Klausureinsicht an. Den Termin wird am Ende der
   - Desktop-App: [Quickhash-GUI](https://www.quickhash-gui.org/)
   - Shell oder Terminal (command `md5`)
 
-## 9.2. Plattformen außerhalb von Moodle
+## 8.2. Plattformen außerhalb von Moodle
 
 Plattformen außerhalb von Moodle (bspw. Studydrive) sind **nicht** offizielle Plattformen. Wir können **nicht** die Richtigkeit der dort zu findenden Behauptungen überprüfen. Diese Plattformen werden von uns überwacht. Arglistiges Verhalten und die Verletzung von Urheberrechten können strafrechtliche Konsequenzen nach sich ziehen.
 
-# 10. Ergänzungen und Kommentare
+# 9. Ergänzungen und Kommentare
 
 - `2021-10-07 00:36:36`: Ergänzungen und Kommentare zu den allgemeinen Informationen während des Semesters finden Sie hier.
