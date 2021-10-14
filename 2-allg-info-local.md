@@ -1,6 +1,3 @@
-<!-- omit in toc -->
-## Allgemeine Informationen
-
 <!-- update before pushing! -->
 `Zuletzt aktualisiert: 2021-10-05 23:35:08`
 
@@ -22,7 +19,7 @@ Bitte beachten Sie die folgenden allgemeinen Informationen zur Lehrveranstaltung
   - [3.2. Termine für Übung, Tutorien und Testat](#32-termine-für-übung-tutorien-und-testat)
   - [3.3. Außergewöhnliche Termine](#33-außergewöhnliche-termine)
   - [3.4. Semesterplan](#34-semesterplan)
-- [4. Studentendaten](#4-studentendaten)
+- [4. Studierendendaten](#4-studierendendaten)
 - [5. Klausurzulassung, Studienleistung, Testate und Zusatzaufgaben](#5-klausurzulassung-studienleistung-testate-und-zusatzaufgaben)
 - [6. Testat-Ablauf](#6-testat-ablauf)
   - [6.1. Vor dem Testat](#61-vor-dem-testat)
@@ -49,15 +46,15 @@ Weitere Informationen finden Sie auf [unserer Website](https://wwwnew.mathematik
 
 ### 1.1. Unser Team
 
-| Rolle                                         | Titel          | Vorname    | Name     | E-Mail                                                                                  |
-| --------------------------------------------- | -------------- | ---------- | -------- | --------------------------------------------------------------------------------------- |
-| Leiter der Abteilung und Dozent               | Akad. Dir. Dr. | Martin     | Scheer   | [martin.scheer@math.tu-dortmund.de](mailto:martin.scheer@math.tu-dortmund.de)           |
-| Hauptassistent und Dozent                     | M. Sc.         | Maximilian | Sperber  | [maximilian.sperber@math.tu-dortmund.de](mailto:maximilian.sperber@math.tu-dortmund.de) |
-| Organisator, Übungsleiter und Ansprechpartner | B. Sc.         | Luis       | Aceituno | [luis.aceituno@tu-dortmund.de](mailto:luis.aceituno@tu-dortmund.de)                     |
-| Tutor                                         | B. Sc.         | Bektas     | Er       | [bektas.er@tu-dortmund.de](mailto:bektas.er@tu-dortmund.de)                             |
-| Tutorin                                       | -              | Cara       | Gabriel  | [cara.gabriel@gmx.de](mailto:cara.gabriel@gmx.de)                                       |
-| Tutor                                         | -              | Nick       | Hanowski | [nick.hanowski@tu-dortmund.de](nick.hanowski@tu-dortmund.de)                            |
-| Organisation                                  | -              | -          | -        | [hmorga@tu-dortmund.de](mailto:hmorga@tu-dortmund.de)                                   |
+| Rolle                                             | Titel          | Vorname    | Name     | E-Mail                                                                                  |
+| ------------------------------------------------- | -------------- | ---------- | -------- | --------------------------------------------------------------------------------------- |
+| Leiter der Abteilung                              | Akad. Dir. Dr. | Martin     | Scheer   | [martin.scheer@math.tu-dortmund.de](mailto:martin.scheer@math.tu-dortmund.de)           |
+| Hauptassistent                                    | M. Sc.         | Maximilian | Sperber  | [maximilian.sperber@math.tu-dortmund.de](mailto:maximilian.sperber@math.tu-dortmund.de) |
+| Organisator, Übungsleiter und **Ansprechpartner** | B. Sc.         | Luis       | Aceituno | [luis.aceituno@tu-dortmund.de](mailto:luis.aceituno@tu-dortmund.de)                     |
+| Tutor                                             | B. Sc.         | Bektas     | Er       | [bektas.er@tu-dortmund.de](mailto:bektas.er@tu-dortmund.de)                             |
+| Tutorin                                           | -              | Cara       | Gabriel  | [cara.gabriel@gmx.de](mailto:cara.gabriel@gmx.de)                                       |
+| Tutor                                             | -              | Nick       | Hanowski | [nick.hanowski@tu-dortmund.de](mailto:nick.hanowski@tu-dortmund.de)                     |
+| Organisation                                      | -              | -          | -        | [hmorga@tu-dortmund.de](mailto:hmorga@tu-dortmund.de)                                   |
 
 <br/>
 
@@ -81,7 +78,7 @@ Bei Fragen oder Feedback, die sensiblen Daten enthalten, beachten Sie bitte die 
 
 Darüber hinaus haben alle Studierenden die Möglichkeit, uns anonym ein Feedback zu geben. Eine Seite zur Evaluation der Lehrveranstaltung wird im Laufe des Semesters zur Verfügung gestellt. Diese findet i.d.R. nach der ersten Hälfte der Vorlesungszeit statt.
 
-## 2. Stuktur der Veranstaltung
+## 2. Struktur der Veranstaltung
 
 Die Lehrveranstaltung besteht aus wöchentlichen Abschnitten. In jedem Abschnitt finden Sie die folgenden Informationen und Aufgaben.
 
@@ -104,7 +101,7 @@ Wenn Sie Fragen haben, kontaktieren Sie uns bitte. Wir helfen Ihnen gerne weiter
 
 ### 2.2. Checklisten, Milestones und Progress-Bar
 
-Bei jedem Abschnitt finden Sie Checklisten `<Aufgabe> [ ]` und Milestones `🎉 Abschnitt <n>: <abschnittsname> abgeschlossen!🎉`. Diese haben mehrere Funktionen, darunter:
+Bei jedem Abschnitt finden Sie Checklisten `<Aufgabe> [ ]` und Milestones `🎉 Abschnitt <n>: <Abschnittsname> abgeschlossen!🎉`. Diese haben mehrere Funktionen, darunter:
 
 - Zur Selbstkontrolle Ihres Lernfortschritts: Sobald Sie einen Abschnitt abgeschlossen und das behandelte Thema verstanden haben, können Sie das Kästchen ankreuzen. Dies zeigt an, dass Sie sich mit dem Thema des Abschnitts beschäftigt haben.
 - Visualisierung Ihres Lernfortschritts: In der rechten Sidebar finden Sie Ihren Lernfortschritt als Verhältnis von angekreuzten Kästchen zu allen Kästchen unter dem Block Bearbeitungsstand. Zusätzlich sehen Sie auf dem Moodle-Dashboard eine Progress-Bar Ihres Lernfortschritts.
@@ -175,9 +172,9 @@ Die **erste Übung** findet am Dienstag, 19.10. um 16:00 Uhr statt. Die **dritte
 
 <br/>
 
-## 4. Studentendaten
+## 4. Studierendendaten
 
-Um sich für (a) die Tutorien anzumelden und (b) die wöchentlichen Testate zu schreiben, benötigen wir die folgenden Studentendaten:
+Um sich für (a) die Tutorien anzumelden und (b) die wöchentlichen Testate zu schreiben, benötigen wir die folgenden Studierendendaten:
 
 - Matrikelnummer
 - Startsemester
@@ -190,7 +187,7 @@ Um sich für (a) die Tutorien anzumelden und (b) die wöchentlichen Testate zu s
 
 Die Teilnahme an der Klausur setzt die Klausurzulassung voraus. In diesem Semester besteht die Möglichkeit, die Prüfungszulassung durch die Studienleistung in Form von Testaten und Zusatzaufgaben zur Abgabe zu erlangen.
 
-Ab der 43. KW (25.10.) gibt es wöchentlich einen Test zum jeweiligen Thema der Vorwoche. Insgesamt gibt es 10 Testate mit je 10 Punkten und zwei Zusatzaufgaben zur Abgabe mit je 15 Punkten. Es werden nur die 10 besten Noten (von 12 möglichen) am Ende des Semesters berücksichtigt. Im Laufe des Semesters können also maximal 110 Punkte erreicht werden. Für die Klausurzulassung benötigen Sie 40 Punkte. Darüber hinaus gelten die folgenden Punkte.
+Ab der 43. KW (25.10.) gibt es wöchentlich ein Testat zum jeweiligen Thema der Vorwoche. Insgesamt gibt es 10 Testate mit je 10 Punkten und zwei Zusatzaufgaben zur Abgabe mit je 15 Punkten. Es werden nur die 10 besten Noten (von 12 möglichen) am Ende des Semesters berücksichtigt. Im Laufe des Semesters können also maximal 110 Punkte erreicht werden. Für die Klausurzulassung benötigen Sie 40 Punkte. Darüber hinaus gelten die folgenden Punkte.
 
 - Bachelor-Studierende, die vor dem WS16/17 begonnen haben, und Master-Studierende haben automatisch eine Klausurzulassung für das aktuelle Semester.
 - Bachelor-Studierende, die bereits in einem der vorangegangenen Semester eine Klausurzulassung erhalten haben, haben automatisch eine Prüfungszulassung für das aktuelle Semester.
@@ -223,7 +220,7 @@ Das Testat wird mit Stift und Papier geschrieben. Bringen Sie einen Studenten- o
 - Wenn Sie mit der Bearbeitung fertig sind, zeichnen Sie Ihre Lösung auf (mit Personalausweis) und fügen Sie die Scans zu einer PDF-Datei zusammen (siehe [8.1. Wichtige Ressourcen](##81-wichtige-ressourcen)).
 - Klicken Sie auf [`MD5-Generator`](https://emn178.github.io/online-tools/md5_checksum.html) in der rechten Sidebar und generieren Sie die MD5. Nachdem Sie die MD5 generiert haben, können Sie die PDF-Datei nicht mehr ändern! (Es ist möglich, die PDF-Datei umzubenennen).
 - Klicken Sie auf `MD5-Abgabe` in der rechten Sidebar oder Abschnitt. Kopieren Sie den MD5-Wert aus dem MD5-Generator und fügen Sie ihn in das vorhandene Feld ein.
-- Bestätigen Sie Ihre MD5-Übermittlung. Sie erhalten eine **E-Mail-Bestätigung** für Ihre Abgabe. Sie haben 15 Minuten Zeit, um die MD5 zu abzugeben.
+- Bestätigen Sie Ihre MD5-Abgabe. Sie erhalten eine **E-Mail-Bestätigung** für Ihre Abgabe. Sie haben 15 Minuten Zeit, um die MD5 zu abzugeben.
 
 <br/>
 
@@ -284,4 +281,4 @@ Plattformen außerhalb von Moodle (bspw. Studydrive) sind **nicht** offizielle P
 
 ## 9. Ergänzungen und Kommentare
 
-- `2021-10-07 00:36:36`: Ergänzungen und Kommentare zu den allgemeinen Informationen während des Semesters finden Sie hier.
+`2021-10-07 00:36:36`: Ergänzungen und Kommentare zu den allgemeinen Informationen während des Semesters finden Sie hier.
